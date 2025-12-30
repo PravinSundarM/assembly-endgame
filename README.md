@@ -63,4 +63,30 @@ http://localhost:5173
 ### 🏆 Winning Screen
 ![Winning Screen](screenshots/win.png)
 
+---
+
+## 👤 Author
+
+**Pravin S**  
+B.Sc. Computer Science Graduate | Aspiring Software / Frontend Developer
+
+- GitHub: https://github.com/PravinSundarM  
+- Live Project: https://assembly-endgame-pravin.netlify.app/
+
+---
+
+## 📌 Note
+
+This project was built as part of my **React learning journey**.  
+It focuses on strengthening **core React concepts** such as:
+
+- State management using hooks
+- Game logic using derived state
+- Conditional rendering
+- Component-driven UI design
+- Building and deploying a production-ready React application
+
+Feedback and suggestions are always welcome 🙂
+
+---
   
